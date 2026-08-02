@@ -1,6 +1,4 @@
 # secrets
-.env
-.env.*
 !.env.example
 *.pem
 
@@ -39,3 +37,7 @@ scratch/
 .agents/
 issue.md
 skills-lock.json
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
