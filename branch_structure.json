@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "docs/troubleshooting-16",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "docs/troubleshooting-16": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "docs/troubleshooting-16",
+    "origin"
+  ]
+}
